@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "907517992568",
+    "firebase_url": "https://inventory-app-f1731-default-rtdb.firebaseio.com",
+    "project_id": "inventory-app-f1731",
+    "storage_bucket": "inventory-app-f1731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907517992568:android:6d8f95c89f7a0d4be7578d",
+        "android_client_info": {
+          "package_name": "learn.danneir.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907517992568-flk7qm08b598j7g3jc9pi8jsnet8ubcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw2LnOfoHjWJAg8EFPBOlclt18gl9uq_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907517992568-flk7qm08b598j7g3jc9pi8jsnet8ubcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
